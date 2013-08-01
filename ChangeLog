@@ -158,7 +158,7 @@
      * treat passcode as password
      * filter "metric10 64" and the like from ip route get output
      * updated to libgcrypt-1.1.90
-     * create /var/run/vpnc/ as necessary
+     * create /run/vpnc/ as necessary
 
 * vpnc-0.2-rm+zomb-pre6.tar.gz Sun Nov 2 02:15:56 CET 2003
 
