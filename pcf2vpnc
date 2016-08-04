@@ -99,6 +99,8 @@ sub help($) {
     my $n = shift;
     print STDERR "$n converts VPN-config files from pcf to vpnc-format.\n";
     print STDERR "Usage: $n <pcf file> [vpnc file]\n";
+    print STDERR "PCF data from input.\n";
+    print STDERR "Usage: $n - [vpnc file]\n";
     exit(1);
 }
 
